@@ -1,0 +1,13 @@
+C:\Users\huoshen\Desktop\新建文件夹\BusinessCard\BusinessCard\bin\Debug\BusinessCard.exe.config
+C:\Users\huoshen\Desktop\新建文件夹\BusinessCard\BusinessCard\bin\Debug\BusinessCard.exe
+C:\Users\huoshen\Desktop\新建文件夹\BusinessCard\BusinessCard\bin\Debug\BusinessCard.pdb
+C:\Users\huoshen\Desktop\新建文件夹\BusinessCard\BusinessCard\obj\Debug\BusinessCard.csprojAssemblyReference.cache
+C:\Users\huoshen\Desktop\新建文件夹\BusinessCard\BusinessCard\obj\Debug\Interop.ADOX.dll
+C:\Users\huoshen\Desktop\新建文件夹\BusinessCard\BusinessCard\obj\Debug\BusinessCard.csproj.ResolveComReference.cache
+C:\Users\huoshen\Desktop\新建文件夹\BusinessCard\BusinessCard\obj\Debug\BusinessCard.Form1.resources
+C:\Users\huoshen\Desktop\新建文件夹\BusinessCard\BusinessCard\obj\Debug\BusinessCard.Properties.Resources.resources
+C:\Users\huoshen\Desktop\新建文件夹\BusinessCard\BusinessCard\obj\Debug\BusinessCard.csproj.GenerateResource.cache
+C:\Users\huoshen\Desktop\新建文件夹\BusinessCard\BusinessCard\obj\Debug\BusinessCard.exe
+C:\Users\huoshen\Desktop\新建文件夹\BusinessCard\BusinessCard\obj\Debug\BusinessCard.pdb
+C:\Users\huoshen\Desktop\新建文件夹\BusinessCard\BusinessCard\obj\Debug\BusinessCard.Add.resources
+C:\Users\huoshen\Desktop\新建文件夹\BusinessCard\BusinessCard\obj\Debug\BusinessCard.Details.resources
